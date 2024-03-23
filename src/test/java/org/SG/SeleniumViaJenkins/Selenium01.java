@@ -11,7 +11,7 @@ import org.testng.annotations.Test;
 import java.util.List;
 
 public class Selenium01 {
-    @Test(groups = "QA")
+    @Test
     @Description("Xpath")
     public void testVWOLogin1() throws InterruptedException {
 
